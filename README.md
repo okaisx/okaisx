@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, my name is Samson 👋
 
 <!--
 **okaisx/okaisx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome! This page will serve as a place to showcase the projects and activities I've been working on. Some projects undoubtedly will be in their infancy, but stay tuned for more to come!
+
+### Cybersecurity Projects
+
+Coming soon...
+
+### Network Design & Implementation (VMware)
+
+Coming soon...
+
+
+### Microsoft
+
+#### Active Directory
+
+Coming soon...
+
+#### Microsoft 365
+
+Coming soon...
