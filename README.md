@@ -1,4 +1,5 @@
-## Hi there, my name is Samson 👋
+# Portfolio
+Hi there, my name is Samson 👋
 
 <!--
 **okaisx/okaisx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,23 +16,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome! This page will serve as a place to showcase the projects and activities I've been working on. Some projects undoubtedly will be in their infancy, but stay tuned for more to come!
+Welcome! This page will serve as a place to showcase the projects and activities I've been working on:
 
-### Cybersecurity Projects
+## Projects
 
-Coming soon...
+- **Cybersecurity Lab**
+	- [GitHub Repository](https://github.com/okaisx/cybersecurity-project-v1)
+	- Description: Setup of cybersecurity lab environment within VMware Workstation
 
-### Network Design & Implementation (VMware)
+- **Microsoft Active Directory**
+	- [GitHub Repository](https://github.com/okaisx/microsoft-active-directory-v1)
+	- Description: Configuration, deployment, and management of Active Directory
 
-Coming soon...
+- **Microsoft 365**
+	- [GitHub Repository](https://github.com/okaisx/microsoft-365-v1)
+	- Description: Setup and management of Microsoft 365 tenant
 
+## Cybersecurity Challenges
 
-### Microsoft
+- **Cybersecurity Walkthroughs**
+	- [GitHub Repository](https://github.com/okaisx/cybersecurity-walkthroughs-v1)
+	- Description: Various cybersecurity-related challenges completed with walkthroughs outlining my methodology
 
-#### Active Directory
-
-Coming soon...
-
-#### Microsoft 365
-
-Coming soon...
+## Contact
+- [Email](mailto:okaisx@live.com)
+- [LinkedIn](https://www.linkedin.com/in/s-okai)
