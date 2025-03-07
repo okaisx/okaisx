@@ -37,7 +37,3 @@ Welcome! This page will serve as a place to showcase the projects and activities
 - **Cybersecurity Walkthroughs**
 	- [GitHub Repository](https://github.com/okaisx/cybersecurity-walkthroughs-v1)
 	- Description: Various cybersecurity-related challenges completed with walkthroughs outlining my methodology
-
-## Contact
-- [Email](mailto:okaisx@live.com)
-- [LinkedIn](https://www.linkedin.com/in/s-okai)
