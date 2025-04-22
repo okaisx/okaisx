@@ -23,14 +23,17 @@ Welcome! This page will serve as a place to showcase the projects and activities
 - **Cybersecurity Lab**
 	- [GitHub Repository](https://github.com/okaisx/cybersecurity-project-v1)
 	- Description: Setup of cybersecurity lab environment within VMware Workstation
+   	- Work-in-progress
 
 - **Microsoft Active Directory**
 	- [GitHub Repository](https://github.com/okaisx/microsoft-active-directory-v1)
 	- Description: Configuration, deployment, and management of Active Directory
+   	- Coming soon...
 
 - **Microsoft 365**
 	- [GitHub Repository](https://github.com/okaisx/microsoft-365-v1)
 	- Description: Setup and management of Microsoft 365 tenant
+   	- Coming soon...
 
 ## Cybersecurity Challenges
 
